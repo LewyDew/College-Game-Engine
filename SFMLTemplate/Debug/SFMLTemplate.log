@@ -1,0 +1,37 @@
+﻿  TestBox.cpp
+c:\users\lew\desktop\final project\sfmltemplate\testbox.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lew\desktop\final project\sfmltemplate\testbox.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  stdafx.cpp
+  Solid.cpp
+  SFMLWall.cpp
+  SFMLBox.cpp
+  Level02Room.cpp
+  SFMLRoom.cpp
+  SFMLMouse.cpp
+  SFMLKeyboard.cpp
+  SFMLGameObject.cpp
+c:\users\lew\desktop\final project\sfmltemplate\sfmlgameobject.cpp(498): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lew\desktop\final project\sfmltemplate\sfmlgameobject.cpp(540): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lew\desktop\final project\sfmltemplate\sfmlgameobject.cpp(638): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFMLGame.cpp
+  SFMLFont.cpp
+  ResourceManager.cpp
+  MainMenuRoom.cpp
+  main.cpp
+  SFMLButton.cpp
+  QuadTree.cpp
+c:\users\lew\desktop\final project\sfmltemplate\quadtree.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lew\desktop\final project\sfmltemplate\quadtree.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lew\desktop\final project\sfmltemplate\quadtree.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lew\desktop\final project\sfmltemplate\quadtree.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+  Level03Room.cpp
+  Level01Room.cpp
+  Generating Code...
+  Compiling...
+  GoalChecker.cpp
+c:\users\lew\desktop\final project\sfmltemplate\goalchecker.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  goal.cpp
+  Generating Code...
+  SFMLTemplate.vcxproj -> C:\Users\lew\Desktop\Final Project\Debug\SFMLTemplate.exe
+  SFMLTemplate.vcxproj -> C:\Users\lew\Desktop\Final Project\Debug\SFMLTemplate.pdb (Partial PDB)
